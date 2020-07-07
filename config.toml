@@ -1,0 +1,4 @@
+baseURL = "https://jeremi.xyz/"
+languageCode = "fr-FR"
+title = "My New Hugo Site"
+theme = "ananke"
